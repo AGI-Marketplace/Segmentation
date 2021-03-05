@@ -1,1 +1,1 @@
-# Clothing-Segmentation
+# Segmentation
